@@ -12,4 +12,4 @@ My data science and analytics projects
 reach out to me at thanabordee.jr@gmail.com
    
 ## Image
-![CAT]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3sTLUWlUGDSIZs5-_ht0AcDKHBXt_3WXgbA&s
+![CAT](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3sTLUWlUGDSIZs5-_ht0AcDKHBXt_3WXgbA&s)
